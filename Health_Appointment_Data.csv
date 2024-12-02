@@ -1,4 +1,4 @@
-Appointment_ID,Patient_Age,Gender,Visit_Reason,Appointment_Status,Appointment_Date
+mainAppointment_ID,Patient_Age,Gender,Visit_Reason,Appointment_Status,Appointment_Date
 2118,37,Female,Injury,Completed,2024-01-01
 2312,14,Female,Injury,Completed,2024-01-02
 2263,51,Female,Flu Symptoms,Completed,2024-01-03
